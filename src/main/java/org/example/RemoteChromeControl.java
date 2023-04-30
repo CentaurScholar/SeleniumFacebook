@@ -1,17 +1,18 @@
 package org.example;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.Cookie;
-import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 
+import java.io.IOException;
+import java.util.List;
+import java.util.concurrent.ThreadLocalRandom;
 import java.time.Duration;
 import java.util.HashMap;
 import java.util.Map;
-import java.io.IOException;
 import java.util.logging.FileHandler;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -31,6 +32,18 @@ public class RemoteChromeControl {
         }
     }
 
+    private static void randomWait(WebDriver driver) {
+
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(30));
+        LOGGER.info("Waiting for the page to load completely");
+        wait.until(ExpectedConditions.jsReturnsValue("return document.readyState === 'complete'"));
+        try {
+            Thread.sleep(ThreadLocalRandom.current().nextInt(3000, 7000)); // randomly wait between 3 and 7 seconds
+        } catch (InterruptedException e) {
+            LOGGER.log(Level.WARNING, "Thread interrupted", e);
+        }
+    }
+
     public static void main(String[] args) {
         String os = System.getProperty("os.name").toLowerCase();
         String chromeDriverPath;
@@ -42,6 +55,7 @@ public class RemoteChromeControl {
         } else {
             throw new RuntimeException("Unsupported OS: " + os);
         }
+
         // Get login credentials from user
         GUI login = new GUI();
         String[] credentials = login.getLogin();
@@ -55,12 +69,11 @@ public class RemoteChromeControl {
         prefs.put("profile.default_content_setting_values.notifications", 2); //Page notifications: 1-Allow, 2-Block, 0-default
         options.setExperimentalOption("prefs", prefs);
         WebDriver driver = new ChromeDriver(options);
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(30));
         LOGGER.info("Navigating to Facebook login page");
         driver.get("https://www.facebook.com");
         // Wait until the page is fully loaded
-        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(30));
-        LOGGER.info("Waiting for the page to load completely");
-        wait.until(ExpectedConditions.jsReturnsValue("return document.readyState === 'complete'"));
+        randomWait(driver);
         LOGGER.info("Attempting to accept cookies");
         driver.manage().addCookie(new Cookie("cookiesAgreed", "true"));
         // Wait for the cookies popup to become visible
@@ -69,10 +82,35 @@ public class RemoteChromeControl {
         // Click the cookie button
         LOGGER.info("Clicking the 'Accept' button in the cookies popup");
         driver.findElement(By.xpath("//button[contains(., 'alla cookies') or contains(., 'all cookies')]")).click();
+        randomWait(driver);
         // Find the email and password fields and fill in the values
         driver.findElement(By.id("email")).sendKeys(email);
         driver.findElement(By.id("pass")).sendKeys(password);
+        randomWait(driver);
         // Click the login
         driver.findElement(By.name("login")).click();
+        LOGGER.info("Logged in");
+        randomWait(driver);
+        WebElement element = driver.findElement(By.xpath("/html/body/div[1]/div/div[1]/div/div[3]/div/div/div/div[1]/div[1]/div/div[2]/div/div/div/div[3]/div/div[2]/div/div/div/div[1]/div/div[1]/span"));
+
+        // Klicka på elementet
+        element.click();
+        randomWait(driver);
+        element = driver.switchTo().activeElement();
+        element.sendKeys("Hej");
+        randomWait(driver);
+
+        driver.findElement(By.xpath("//span[text()='Publicera'] | //span[text()='Publish']")).click();
+        randomWait(driver);
+        driver.findElement(By.cssSelector("svg[aria-label='Din profil']")).click();
+
+    randomWait(driver);
+
+        driver.findElement(By.xpath("//*[contains(text(),'Logga ut')][1]")).click();
+
+     /*   element = driver.findElement(By.xpath("/html/body/div[1]/div/div[1]/div/form"));
+        element.click();*/
+       // LOGGER.info('Post published successfully!')
+        //driver.quit();
     }
 }
