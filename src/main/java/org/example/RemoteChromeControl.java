@@ -59,22 +59,6 @@ public class RemoteChromeControl {
         driver.findElement(By.name("login")).click();
         randomWait(driver);
 
-        WebElement element = driver.findElement(By.xpath("/html/body/div[1]/div/div[1]/div/div[3]/div/div/div/div[1]/div[1]/div/div[2]/div/div/div/div[3]/div/div[2]/div/div/div/div[1]/div/div[1]/span"));
-        element.click();
-        randomWait(driver);
-
-        element = driver.switchTo().activeElement();
-        element.sendKeys("Barabass och rakapparat?");
-        randomWait(driver);
-
-        LOGGER.info("Publishing post");
-        driver.findElement(By.xpath("//span[text()='Publicera'] | //span[text()='Post']")).click();
-        randomWait(driver);
-
-        LOGGER.info("Navigating to profile");
-        driver.findElement(By.cssSelector("svg[aria-label='Din profil'], svg[aria-label='Your profile']")).click();
-        randomWait(driver);
-
         LOGGER.info("Logging out");
         driver.findElement(By.xpath("//*[contains(text(),'Logga ut') or contains(text(),'Log Out')][1]")).click();
     }
