@@ -1,0 +1,1020 @@
+apr. 29, 2023 12:51:25 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 29, 2023 12:51:26 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 29, 2023 12:51:27 EM org.example.RemoteChromeControl main
+INFO: Waiting for the page to load completely
+apr. 29, 2023 12:51:27 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 29, 2023 12:51:27 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 29, 2023 12:51:27 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 1:45:57 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 1:45:59 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 1:46:01 EM org.example.RemoteChromeControl main
+INFO: Waiting for the page to load completely
+apr. 30, 2023 1:46:01 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 1:46:01 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 1:46:01 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 1:46:02 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 1:47:37 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 1:47:39 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 1:47:40 EM org.example.RemoteChromeControl main
+INFO: Waiting for the page to load completely
+apr. 30, 2023 1:47:40 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 1:47:40 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 1:47:40 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 1:47:41 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 1:49:17 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 1:49:19 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 1:49:20 EM org.example.RemoteChromeControl main
+INFO: Waiting for the page to load completely
+apr. 30, 2023 1:49:20 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 1:49:20 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 1:49:20 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 1:49:21 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 1:50:29 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 1:50:30 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 1:50:31 EM org.example.RemoteChromeControl main
+INFO: Waiting for the page to load completely
+apr. 30, 2023 1:50:31 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 1:50:31 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 1:50:32 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 1:50:32 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 1:52:45 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 1:52:46 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 1:52:48 EM org.example.RemoteChromeControl main
+INFO: Waiting for the page to load completely
+apr. 30, 2023 1:52:48 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 1:52:48 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 1:52:48 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 1:52:49 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 2:02:35 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 2:02:36 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 2:02:37 EM org.example.RemoteChromeControl main
+INFO: Waiting for the page to load completely
+apr. 30, 2023 2:02:37 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 2:02:37 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 2:02:38 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 2:02:38 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 2:07:29 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 2:07:30 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 2:07:32 EM org.example.RemoteChromeControl main
+INFO: Waiting for the page to load completely
+apr. 30, 2023 2:07:32 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 2:07:32 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 2:07:32 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 2:07:32 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 2:09:07 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 2:09:09 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 2:09:10 EM org.example.RemoteChromeControl main
+INFO: Waiting for the page to load completely
+apr. 30, 2023 2:09:10 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 2:09:10 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 2:09:10 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 2:09:11 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 2:15:28 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 2:15:29 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 2:15:31 EM org.example.RemoteChromeControl main
+INFO: Waiting for the page to load completely
+apr. 30, 2023 2:15:31 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 2:15:31 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 2:15:31 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 2:15:31 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 2:19:28 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 2:19:29 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 2:19:31 EM org.example.RemoteChromeControl main
+INFO: Waiting for the page to load completely
+apr. 30, 2023 2:19:31 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 2:19:31 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 2:19:31 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 2:19:32 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 2:19:59 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 2:20:00 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 2:20:02 EM org.example.RemoteChromeControl main
+INFO: Waiting for the page to load completely
+apr. 30, 2023 2:20:02 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 2:20:02 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 2:20:02 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 2:20:03 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 2:20:27 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 2:20:29 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 2:20:30 EM org.example.RemoteChromeControl main
+INFO: Waiting for the page to load completely
+apr. 30, 2023 2:20:31 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 2:20:31 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 2:20:31 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 2:20:59 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 2:21:44 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 2:21:45 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 2:21:47 EM org.example.RemoteChromeControl main
+INFO: Waiting for the page to load completely
+apr. 30, 2023 2:21:47 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 2:21:47 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 2:21:47 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 2:21:48 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 2:52:48 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 2:52:50 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 2:52:51 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 2:52:54 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 2:52:54 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 2:52:54 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 2:52:55 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 2:52:59 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 2:53:04 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 2:53:04 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 2:53:46 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 2:53:47 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 2:53:48 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 2:53:51 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 2:53:51 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 2:53:51 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 2:53:51 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 2:55:01 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 2:55:17 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 2:55:39 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 3:04:15 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 3:04:16 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 3:04:18 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 3:04:22 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 3:04:22 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 3:04:22 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 3:04:23 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 3:04:30 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 3:04:35 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 3:04:42 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 3:59:11 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 3:59:12 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 3:59:14 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 3:59:17 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 3:59:17 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 3:59:17 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 3:59:17 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 3:59:21 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 3:59:26 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 3:59:26 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 4:02:59 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 4:03:01 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 4:03:02 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 4:03:08 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 4:03:08 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 4:03:08 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 4:03:08 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 4:03:12 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 4:03:15 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 4:03:15 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 4:06:16 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 4:06:18 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 4:06:19 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 4:06:23 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 4:06:23 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 4:06:23 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 4:06:23 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 4:06:34 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 4:06:47 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 4:06:49 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 4:11:16 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 4:11:18 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 4:11:19 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 4:11:24 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 4:11:24 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 4:11:24 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 4:11:24 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 4:11:29 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 4:11:34 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 4:11:34 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 4:25:28 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 4:25:30 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 4:25:31 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 4:25:36 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 4:25:36 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 4:25:36 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 4:25:37 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 4:25:45 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 4:25:55 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 4:26:06 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 5:48:42 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 5:48:43 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 5:48:45 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 5:48:48 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 5:48:48 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 5:48:48 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 5:48:48 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 5:48:55 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 5:49:00 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 5:49:00 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 5:55:28 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 5:55:29 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 5:55:31 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 5:55:36 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 5:55:36 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 5:55:36 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 5:55:36 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 5:55:44 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 5:55:50 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 5:56:07 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 6:02:02 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 6:02:03 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 6:02:05 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 6:02:09 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 6:02:09 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 6:02:09 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 6:02:09 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 6:02:18 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 6:02:23 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 6:02:37 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 6:03:43 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 6:03:44 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 6:03:46 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 6:03:48 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 6:03:48 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 6:03:48 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 6:03:49 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 6:03:57 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 6:04:06 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 6:04:19 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 6:06:59 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 6:07:00 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 6:07:02 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 6:07:07 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 6:07:07 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 6:07:07 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 6:07:07 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 6:07:17 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 6:07:27 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 6:07:30 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 6:09:26 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 6:09:27 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 6:09:29 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 6:09:33 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 6:09:33 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 6:09:33 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 6:09:34 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 6:09:43 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 6:09:49 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 6:09:55 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 6:36:29 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 6:36:30 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 6:36:32 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 6:36:34 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 6:36:34 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 6:36:34 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 6:36:34 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 6:36:37 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 6:36:40 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 6:36:40 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 6:44:20 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 6:44:21 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 6:44:23 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 6:44:28 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 6:44:28 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 6:44:28 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 6:44:28 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 6:44:34 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 6:44:39 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 6:44:39 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 6:49:06 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 6:49:08 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 6:49:09 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 6:49:13 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 6:49:13 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 6:49:13 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 6:49:13 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 6:49:19 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 6:49:25 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 6:49:25 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 6:49:36 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 6:55:38 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 6:55:39 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 6:55:41 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 6:55:45 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 6:55:45 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 6:55:45 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 6:55:45 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 6:55:54 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 6:56:00 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 6:56:10 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 6:56:16 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 6:56:22 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 7:06:45 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 7:06:47 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 7:06:49 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 7:06:54 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 7:06:54 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 7:06:54 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 7:06:54 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 7:07:02 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 7:07:10 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 7:07:16 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 7:07:22 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 7:07:25 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 7:13:09 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 7:13:11 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 7:13:14 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 7:13:19 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 7:13:19 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 7:13:19 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 7:13:19 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 7:13:26 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 7:13:35 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 7:13:55 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 7:14:09 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 7:14:21 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 7:18:52 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 7:18:53 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 7:18:55 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 7:19:00 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 7:19:00 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 7:19:01 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 7:19:01 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 7:19:10 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 7:19:17 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 7:19:20 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 7:19:31 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 7:19:36 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 7:21:36 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 7:21:37 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 7:21:39 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 7:21:42 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 7:21:42 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 7:21:42 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 7:21:43 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 7:21:53 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 7:22:10 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 7:22:11 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 7:22:32 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 7:22:40 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 9:48:05 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 9:48:11 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 9:48:12 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 9:48:14 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 9:48:18 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 9:48:18 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 9:48:18 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 9:48:18 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 9:48:29 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 9:48:38 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 9:48:41 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 9:49:06 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 9:49:21 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 9:57:34 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 9:57:39 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 9:57:41 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 9:57:42 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 9:57:46 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 9:57:46 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 9:57:46 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 9:57:47 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 9:57:57 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 9:58:04 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 9:58:07 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 9:58:19 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 9:58:30 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 9:58:42 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:19:48 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 10:19:49 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 10:19:51 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:19:54 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 10:19:54 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 10:19:54 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 10:19:54 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:20:05 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:20:16 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 10:20:23 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:20:33 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:20:45 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:21:00 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:25:47 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 10:25:48 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 10:25:50 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:25:53 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 10:25:53 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 10:25:53 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 10:25:54 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:26:05 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:26:15 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 10:26:19 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:26:36 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:26:46 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:28:00 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:34:21 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 10:34:22 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 10:34:24 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:34:28 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 10:34:28 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 10:34:28 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 10:34:28 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:34:38 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:34:46 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 10:34:48 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:35:04 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:35:15 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:35:59 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:43:17 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 10:43:18 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 10:43:20 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:43:25 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 10:43:25 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 10:43:25 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 10:43:25 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:43:35 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:43:46 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 10:43:54 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:44:04 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:44:18 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:45:05 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:53:09 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 10:53:11 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 10:53:12 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:53:16 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 10:53:16 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 10:53:16 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 10:53:16 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:53:23 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:53:38 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 10:54:04 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:55:08 EM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+apr. 30, 2023 10:55:10 EM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+apr. 30, 2023 10:55:11 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:55:15 EM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+apr. 30, 2023 10:55:15 EM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+apr. 30, 2023 10:55:15 EM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+apr. 30, 2023 10:55:15 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:55:24 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:55:38 EM org.example.RemoteChromeControl main
+INFO: Logged in
+apr. 30, 2023 10:55:40 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:56:11 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:56:46 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:57:04 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+apr. 30, 2023 10:57:29 EM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:09:29 FM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+maj 01, 2023 9:09:31 FM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+maj 01, 2023 9:09:32 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:09:39 FM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+maj 01, 2023 9:09:39 FM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+maj 01, 2023 9:09:39 FM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+maj 01, 2023 9:09:39 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:09:49 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:09:59 FM org.example.RemoteChromeControl main
+INFO: Logged in
+maj 01, 2023 9:10:01 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:15:55 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:16:00 FM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+maj 01, 2023 9:16:01 FM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+maj 01, 2023 9:16:03 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:16:09 FM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+maj 01, 2023 9:16:09 FM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+maj 01, 2023 9:16:09 FM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+maj 01, 2023 9:16:09 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:16:38 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:16:50 FM org.example.RemoteChromeControl main
+INFO: Logged in
+maj 01, 2023 9:16:59 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:17:44 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:17:50 FM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+maj 01, 2023 9:17:51 FM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+maj 01, 2023 9:17:53 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:18:00 FM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+maj 01, 2023 9:18:00 FM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+maj 01, 2023 9:18:00 FM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+maj 01, 2023 9:18:00 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:18:15 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:18:24 FM org.example.RemoteChromeControl main
+INFO: Logged in
+maj 01, 2023 9:18:26 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:18:55 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:19:14 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:19:32 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:27:58 FM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+maj 01, 2023 9:28:00 FM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+maj 01, 2023 9:28:01 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:28:06 FM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+maj 01, 2023 9:28:06 FM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+maj 01, 2023 9:28:06 FM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+maj 01, 2023 9:28:06 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:28:16 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:28:29 FM org.example.RemoteChromeControl main
+INFO: Logged in
+maj 01, 2023 9:28:31 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:28:46 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:28:54 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:29:04 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:29:17 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:40:11 FM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+maj 01, 2023 9:40:12 FM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+maj 01, 2023 9:40:14 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:40:18 FM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+maj 01, 2023 9:40:18 FM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+maj 01, 2023 9:40:18 FM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+maj 01, 2023 9:40:18 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:40:24 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:41:12 FM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+maj 01, 2023 9:41:13 FM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+maj 01, 2023 9:41:15 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:41:21 FM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+maj 01, 2023 9:41:21 FM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+maj 01, 2023 9:41:21 FM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+maj 01, 2023 9:41:21 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:41:37 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:42:18 FM org.example.RemoteChromeControl main
+INFO: Starting Chrome driver
+maj 01, 2023 9:42:19 FM org.example.RemoteChromeControl main
+INFO: Navigating to Facebook login page
+maj 01, 2023 9:42:21 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:42:25 FM org.example.RemoteChromeControl main
+INFO: Attempting to accept cookies
+maj 01, 2023 9:42:25 FM org.example.RemoteChromeControl main
+INFO: Waiting for the cookies popup to become visible
+maj 01, 2023 9:42:25 FM org.example.RemoteChromeControl main
+INFO: Clicking the 'Accept' button in the cookies popup
+maj 01, 2023 9:42:25 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:42:48 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:43:08 FM org.example.RemoteChromeControl main
+INFO: Logged in
+maj 01, 2023 9:43:14 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:43:20 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:43:43 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:43:56 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely
+maj 01, 2023 9:44:10 FM org.example.RemoteChromeControl randomWait
+INFO: Waiting for the page to load completely

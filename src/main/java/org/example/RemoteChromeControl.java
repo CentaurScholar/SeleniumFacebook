@@ -97,16 +97,18 @@ public class RemoteChromeControl {
         element.click();
         randomWait(driver);
         element = driver.switchTo().activeElement();
-        element.sendKeys("Hej");
+        element.sendKeys("Sven Arn");
         randomWait(driver);
 
-        driver.findElement(By.xpath("//span[text()='Publicera'] | //span[text()='Publish']")).click();
+        driver.findElement(By.xpath("//span[text()='Publicera'] | //span[text()='Post']")).click();
         randomWait(driver);
-        driver.findElement(By.cssSelector("svg[aria-label='Din profil']")).click();
+        driver.findElement(By.cssSelector("svg[aria-label='Din profil'], svg[aria-label='Your profile']")).click();
 
-    randomWait(driver);
 
-        driver.findElement(By.xpath("//*[contains(text(),'Logga ut')][1]")).click();
+        randomWait(driver);
+
+        driver.findElement(By.xpath("//*[contains(text(),'Logga ut') or contains(text(),'Log Out')][1]")).click();
+
 
      /*   element = driver.findElement(By.xpath("/html/body/div[1]/div/div[1]/div/form"));
         element.click();*/
